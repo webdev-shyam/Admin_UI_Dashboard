@@ -204,13 +204,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help, please:
 
-- 📧 Email: support@nextmetrics.com
-- 💬 Discord: [Join our community](https://discord.gg/nextmetrics)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/nextmetrics-dashboard/issues)
+- 📧 Email: wid2839@gmail.com
+
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the NextMetrics team</p>
+  <p>Made with ❤️ by Ganeshyam Verma</p>
   <p>⭐ Star this repo if you found it helpful!</p>
 </div>
